@@ -1,0 +1,7 @@
+Ato module
+==========
+
+.. automodule:: Ato
+   :members:
+   :undoc-members:
+   :show-inheritance:

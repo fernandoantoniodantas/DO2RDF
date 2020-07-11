@@ -1,0 +1,7 @@
+Persistencia module
+===================
+
+.. automodule:: Persistencia
+   :members:
+   :undoc-members:
+   :show-inheritance:

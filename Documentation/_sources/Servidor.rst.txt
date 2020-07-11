@@ -1,0 +1,7 @@
+Servidor module
+===============
+
+.. automodule:: Servidor
+   :members:
+   :undoc-members:
+   :show-inheritance:

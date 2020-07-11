@@ -1,0 +1,7 @@
+Diario module
+=============
+
+.. automodule:: Diario
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,7 @@
+RioJaneiroLayoutFinal module
+============================
+
+.. automodule:: RioJaneiroLayoutFinal
+   :members:
+   :undoc-members:
+   :show-inheritance:

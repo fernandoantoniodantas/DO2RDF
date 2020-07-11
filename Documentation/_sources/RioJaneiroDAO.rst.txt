@@ -1,0 +1,7 @@
+RioJaneiroDAO module
+====================
+
+.. automodule:: RioJaneiroDAO
+   :members:
+   :undoc-members:
+   :show-inheritance:

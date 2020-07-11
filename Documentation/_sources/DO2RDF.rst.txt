@@ -1,0 +1,7 @@
+DO2RDF module
+=============
+
+.. automodule:: DO2RDF
+   :members:
+   :undoc-members:
+   :show-inheritance:

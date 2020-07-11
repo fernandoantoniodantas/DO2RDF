@@ -1,0 +1,7 @@
+Layout module
+=============
+
+.. automodule:: Layout
+   :members:
+   :undoc-members:
+   :show-inheritance:

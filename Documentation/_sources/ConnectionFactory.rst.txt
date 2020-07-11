@@ -1,0 +1,7 @@
+ConnectionFactory module
+========================
+
+.. automodule:: ConnectionFactory
+   :members:
+   :undoc-members:
+   :show-inheritance:

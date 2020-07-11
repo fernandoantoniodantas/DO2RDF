@@ -1,0 +1,7 @@
+Entidade module
+===============
+
+.. automodule:: Entidade
+   :members:
+   :undoc-members:
+   :show-inheritance:

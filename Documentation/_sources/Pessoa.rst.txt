@@ -1,0 +1,7 @@
+Pessoa module
+=============
+
+.. automodule:: Pessoa
+   :members:
+   :undoc-members:
+   :show-inheritance:

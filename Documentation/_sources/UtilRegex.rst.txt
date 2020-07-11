@@ -1,0 +1,7 @@
+UtilRegex module
+================
+
+.. automodule:: UtilRegex
+   :members:
+   :undoc-members:
+   :show-inheritance:
