@@ -1,6 +1,4 @@
-Apresentação do Projeto DO2RDF
-
-# DO2RDF
+# DOCUMENTAÇÃO DO DO2RDF
 
 <html>
 <body>
